@@ -57,6 +57,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
 | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="Gradle" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring security logo" src="https://www.saashub.com/images/app/service_logos/129/rc71jd29uxtm/large.png?1580496061" height="50" width="50" >| <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
 
+<br>
+
 ## 💻 Demo
 |**HOME**|**DETAIL**|**NEWLOG**|
 |:---:|:---:|:---:|
@@ -66,14 +68,14 @@
 |**BADGE**|**PROFILE**|
 |![](https://velog.velcdn.com/images/on002way/post/c0222541-c80b-4f29-819c-76e287b99d4c/image.gif)|![](https://velog.velcdn.com/images/on002way/post/15ebc4ee-c8c1-48d1-816a-a18f892c7c18/image.gif)|
 
+<br>
+
 ## :memo: Documents
 
 ### <a href="https://daisy-brochure-67f.notion.site/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4">사용자 요구사항 정의서</a>
 ### <a href="https://daisy-brochure-67f.notion.site/e33b03b23a4a47258718333499f80833?pvs=4">화면 정의서</a>
 ### <a href="https://daisy-brochure-67f.notion.site/API-fe541ef8e9e946a89f4dacc35e17869e?pvs=4">API 문서</a>
 ### <a href="https://daisy-brochure-67f.notion.site/DB-ERD-b181b37c8cfb449d8312a966c8e6c1ec?pvs=4_blank"> ERD 문서</a>
-
-
 
 <br>
 
