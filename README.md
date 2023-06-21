@@ -1,168 +1,91 @@
 <div align="center">
-  <h1>🌿쓰고 쓰고 또 쓰자 (쓰쓰또쓰)</h1>
+  <h4> 낡은 플라스틱이 자랑이 되는 재활용 커뮤니티 서비스</h4>
+  <h1>🌳 쓰쓰또쓰 - 쓰고 쓰고 또 쓰자 🌳</h1>
 </div>
 
 <div align="center">
-  <h3>쓰쓰또쓰와 함께 플라스틱을 재활용하고 기록해봐요.</h3>
   <img src="https://raw.githubusercontent.com/codestates-seb/seb43_main_008/main/client/public/images/qrCode.png" width="200px" height="200px">
+  <h4>쓰쓰또쓰와 함께 플라스틱을 재활용하고 기록해보세요.</h4>
+  <h5 align="center">개발기간: 2023.04.18 ~ 2022.05.25</h5>
 </div>
 
-<br/>
+---
 
-사용자가 물건이 “쉽게 버릴 수 있는 물건”이 아닌 “끝까지 제 쓸모를 다한 물건”이 될 수 있도록 도와줍니다.
-함께 하며 서로가 서로의 원동력이 되도록 환경을 조성합니다.
-저희 팀은 개인의 작은 실천과 동참으로 조금 더 깨끗한 세상을 만들 수 있다고 믿습니다.
+- **팀 명 :** 버리지마 나의 작은 아기봉다리
+- **프로젝트 명 :** 쓰쓰또쓰
+- **FE 팀원 :** 천지인(팀장), 오아름, 정순현
+- **BE 팀원 :** 진하늘(팀장), 김대현, 안윤아
+- **배포 링크 :** <a href='https://ssdss.vercel.app' target='_blank'>쓰쓰또쓰</a>
 
--   쓰쓰또쓰는 사용자가 플라스틱 재사용 회차별 사진과 함께 글을 지속적으로 기록하는 일지 제공 서비스입니다.
--   재사용한 플라스틱의 졸업을 위해, 투표 기능을 제공합니다.
--   투표 결과에 따라 배지와 메달 보상으로 성취감을 느낄 수 있도록 만들었습니다.
+<br>
 
-<br/>
+## 📢 쓰쓰또쓰를 소개합니다. 
+**'잘' 분리 배출된 플라스틱 비닐의 8%만이 재활용된다는 사실을 아시나요?** <br><br>
+쓰쓰또쓰는 낮은 재활용률의 한계를 탈피하고자 사용자에게 버리지 말고 더 쓸 것을 제안 합니다. <br>
+사용자가 두번, 세번 더 쓴다면 단번에 재활용률 200%, 300%를 달성한 것이지 않을까요? 👀 <br>
 
-## 팀 소개
+<br>
 
-### Front-end
+## 👨‍👩‍👧‍👦 우리팀을 소개합니다. 
+#### 이름 클릭 시 Github로 이동됩니다. 
 
-|                                  <img src="https://github.com/jiin9999.png" width="200px" height="200px">                                   |                           <img src="https://github.com/Aroma-oh.png" width="200px" height="200px">                            |                 <img src="https://github.com/jungsoonhyun.png" width="200px" height="200px">                  |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                                         [천지인(LEAD)<br/>(@jiin9999)](https://github.com/jiin9999)                                         |                                     [오아름<br/>(@Aroma-oh)](https://github.com/Aroma-oh)                                     |                         [정순현<br/>(@jungsoonhyun)](https://github.com/jungsoonhyun)                         |
+| [천지인](https://github.com/jiin9999)<br>(FE, 팀장)| [오아름](https://github.com/Aroma-oh)<br>(FE)| [정순현](https://github.com/jungsoonhyun)  <br>(FE)|
+|:----------------:|:----------------:|:----------------:|
+|<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236228351991869/421b971f5aaff0b5.png" width="200px" height="200px">    |<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236380366159994/a2125abea89bbbe1.png" width="200px" height="200px">    |<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113237188902125608/32b8a4bccba3ad5f.png" width="200px" height="200px">|
 | <p align="left">- 로그인 페이지<br/> - 회원가입 페이지<br/> - 회원 정보 수정 페이지<br/> - 회원가입 축하 페이지<br/> - 투표 완료 페이지</p> | <p align="left">- 북마크 페이지<br/> - 시리즈 상세 페이지</br> - 팔로우 페이지</br> - 메인 페이지</br> - 마이 페이지</br></p> | <p align="left">- 뱃지 페이지<br/> - 시리즈 작성페이지<br/> - 일지 작성 페이지</br>- 일지 상세페이지</br></p> |
 
+| [진하늘](https://github.com/mewluee)<br>(BE, 팀장)| [김대현](https://github.com/NewfileDOTpy)<br>(BE)| [안윤아](https://github.com/digital-hamster)   <br>(BE)|
+|:----------------:|:----------------:|:----------------:|
+| <img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236311986405406/0bf74084411d2309.png" width="200px" height="200px"> | <img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236110362034196/f9ec1fb7f9a35b2f.png" width="200px" height="200px"> | <img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236995800576120/aee0cf8f08b07ff1.png" width="200px" height="200px"> |
+|<p align="left">- 회원 도메인 CRUD</br> - 팔로우 도메인 CRUD</br> - OAuth2 로그인</br> - Spring Security + JWT</br> - 보안 </p> |<p align="left">- 시리즈 도메인 CRUD</br> - 코멘트 도메인 CRUD</br> - 데이로그 도메인 CRUD</br> - CD/CI</br> - 이미지 파일 처리</br> - 이미지 파일 처리</p>|<p align="left">- 뱃지 도메인 CRUD</br> - 북마크 도메인 CRUD</br> - 투표 도메인 CRUD</br> - Database Administrator</br> - NginX </p>    
+
+
+## 💻 Demo
+|**HOME**|**DETAIL**|**NEWLOG**|
+|:---:|:---:|:---:|
+|![](https://velog.velcdn.com/images/on002way/post/4254ff66-fa0e-4603-a9d2-146079f97798/image.gif)|![](https://velog.velcdn.com/images/on002way/post/b7fc0d7b-d390-4620-9952-3cc151dbb6c1/image.gif)|![](https://velog.velcdn.com/images/on002way/post/95caa7d5-67fc-49ac-b381-8737d6b7605e/image.gif)|
+|**BOOKMARK**|**MYPAGE**|**FOLLOW**|
+|![](https://velog.velcdn.com/images/on002way/post/1930afdb-725a-4008-828c-3ef54d7afb9a/image.gif)|![](https://velog.velcdn.com/images/on002way/post/f4de76c5-b4bc-4abe-ab3e-ef26b1c6bbb0/image.gif)|![](https://velog.velcdn.com/images/on002way/post/b733404d-1df1-4971-8d1e-3b9e8d29cb09/image.gif)|
+|**BADGE**|**PROFILE**|
+|![](https://velog.velcdn.com/images/on002way/post/c0222541-c80b-4f29-819c-76e287b99d4c/image.gif)|![](https://velog.velcdn.com/images/on002way/post/15ebc4ee-c8c1-48d1-816a-a18f892c7c18/image.gif)|
+
+## 🔧 Skills
+<img src="https://user-images.githubusercontent.com/119935602/244271585-ef5d1ff8-6c06-44ee-a0f5-947361afff48.PNG">
+
+### Tools
+| Git | Github | Notion | Discord | 
+| :---: | :---: | :---: | :---: |
+| <img alt="git logo" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="65" height="65" > | <img alt="github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65"> | <img alt="Discord logo" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/800px-Notion-logo.svg.png height="65" width="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | 
+### Front-end
+| Next.js | TypeScript | Axios | Styled-<br>Components | ESLint | Prettier |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Next" src ="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Ts" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="Axios" width="65"/></div> | <img src="https://styled-components.com/logo.png" alt="styled-components icon" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" alt="ESLint" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></div> |
+
 ### Back-end
+| Java | mySQL | JWT |Gradle| AWS | Spring | Spring<br>Security| Spring<br>Boot |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="Gradle" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring security logo" src="https://www.saashub.com/images/app/service_logos/129/rc71jd29uxtm/large.png?1580496061" height="50" width="50" >| <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
 
-| <img src="https://github.com/mewluee.png" width="200px" height="200px"> | <img src="https://github.com/NewfileDOTpy.png" width="200px" height="200px"> | <img src="https://github.com/digital-hamster.png" width="200px" height="200px"> |
-| :---------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-|        [진하늘(LEAD)<br/>(@mewluee)](https://github.com/mewluee)        |        [김대현<br/>(@NewfileDOTpy)](https://github.com/NewfileDOTpy)         |       [안윤아<br/>(@digital-hamster)](https://github.com/digital-hamster)       |
-|               <p align="left">- 기능 1</br> - 기능 2 </p>               |                 <p align="left">- 기능 1</br> - 기능 2 </p>                  |                   <p align="left">- 기능 1</br> - 기능 2 </p>                   |
+## :memo: Documents
 
-<br/>
+### <a href="https://www.notion.so/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4" target="_blank">사용자 요구사항 정의서</a>
+### <a href="https://www.notion.so/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4" target="_blank">화면 정의서</a>
+### <a href="https://www.side-quest-1.com/swagger-ui.html" target="_blank">API 문서</a>
+### <a href="https://dbdiagram.io/d/6451e406dca9fb07c467d156" target="_blank">ERD 문서</a>
 
-## FE 기술 스택
 
--   Next.js
-    -   SSR을 이용해 SEO(검색엔진 최적화)를 향상시켰습니다.
--   React
-    -   컴포넌트 재사용과 상태에 따른 불필요한 리렌더링을 고려하며 구현하였습니다.
--   TypeScript
-    -   동적 언어인 JS의 안정성을 보장하고, 원활한 협업을 위해 사용했습니다.
--   PWA
-    -   PWA를 이용해 데스크탑, 안드로이드, IOS에서 다운로드하여 앱으로 사용할 수 있도록 구현하였고, 반응형 UI로 크로스 플랫폼을 지원할 수 있도록 했습니다.
-    -   웹 푸시를 활용해 사용자가 네이티브 앱을 사용하는 것처럼 느낄 수 있도록 구현하였습니다.
--   ESLint & Prettier
-    -   협업을 위해 코드 포매팅 기능에 ESLint를, 코드 스타일링에 Prettier를 적용했습니다.
--   Deploy
-    -   Vercel을 이용해 https 배포했습니다.
-    -   Github Action으로 CI/CD를 도입했습니다.
 
-<br/>
+<br>
 
-## BE 기술 스택
+## ✨Git Commit & PR Message
 
--   Spring
-    -   설명
--   Spring Security
-    -   설명2
-
-<br/>
-
-## 개발시 주안점
-
-<details>
-<summary><b>천지인</b></summary><br/>
-  
-- 로그인 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원가입 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원 정보 수정 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-  
-</details>
-
-<details>
-<summary><b>오아름</b></summary><br/>
-
-  
-- 메인 페이지
-  
- ![](https://velog.velcdn.com/images/on002way/post/9b0073bf-e650-48de-8b53-4b709e4a542d/image.gif) 
-  
- ✅ 비회원도 조회가 가능한 유일한 페이지! 메인 페이지는 모두가 조회가 가능한 유일한 페이지입니다. 
-  따라서 개별 시리즈는 새로운 사용자의 궁금증을 유도하여 회원가입으로 연결하는 역할을 해야합니다.
-  이를 위해 시리즈의 사진 영역을 넓게 잡아 시각적인 이목을 끌고자 했으며, “n번 사용”정보를 노출하였습니다. 
-  (비닐봉지를 30번 사용한 시리즈라면 궁금하지 않을까요? 👀) 
-  
-✅ 사용자의 빠른 탐색을 위해 무한 스크롤을 적용했습니다.
-많은 이미지 로딩이 필요한 메인페이지는 최초 렌더가 느리다는 단점이 있습니다. 
-  이를 해결하기 위해 api 요청 1회당 12개의 데이터만 불러오는 무한 스크롤을 적용하였습니다.
-
-- 시리즈 상세 페이지
-  
-![](https://velog.velcdn.com/images/on002way/post/3047f626-a0f2-4efa-bef2-cc6a7c47ae12/image.gif)
-  
-✅ 기능별로 컴포넌트를 분할했습니다. 
-시리즈 상세페이지는 다양한 기능(데이로그 조회, 북마크, 투표, 댓글)이 들어가는 페이지입니다. 각 기능은 개별 api가 존재하기 때문에 불필요한 리렌더링 방지를 위해 컴포넌트를 분할 했습니다. 
-  
-✅ 사용자의 빠른 탐색을 위해 무한 스크롤을 적용했습니다.
-데이로그도 많은 이미지 로딩이 필요한 페이지입니다. 따라서 무한 스크롤을 통해 단위 별로 데이터를 호출하여 빠른 로딩을 주고자 했습니다. 
-
-- 마이 페이지
-  
-![](https://velog.velcdn.com/images/on002way/post/ecfbc362-e5f0-44f8-b079-8b0f92a8d97d/image.gif)
-  
-✅ 조건으로 UI를 구분하여 컴포넌트를 재사용했습니다. 
-마이페이지는 "자신"의 페이지 접속의 경우와 "타인"의 페이지 접속의 경우 UI가 구분됩니다. UI의 글씨 혹은 연결 링크만 변경되기 때문에, 페이지를 나눠 중복 코드를 작성하기 보다는 조건문을 주어 다른 UI가 렌더되도록 하였습니다. 
-  
-✅ 다양한 시리즈 상태의 구분이 필요했습니다.
-시리즈는 투표 결과에 따라 메달을 부여받을 수도, 재사용을 해야할 수도 있습니다. 이러한 상태가 피드의 UI상으로 구분되어 사용자가 즉각적으로 확인할 수 있도록 구현했습니다. 
-
-  
-</details>
-
-<details>
-<summary><b>정순현</b></summary><br/>
-  
-- 로그인 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원가입 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원 정보 수정 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-  
-</details>
-
-<details>
-<summary><b>진하늘</b></summary><br/>
-  
-- 로그인 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원가입 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원 정보 수정 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-  
-</details>
-
-<details>
-<summary><b>김대현</b></summary><br/>
-  
-- 로그인 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원가입 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원 정보 수정 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-  
-</details>
-
-<details>
-<summary><b>안윤아</b></summary><br/>
-  
-- 로그인 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원가입 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-- 회원 정보 수정 페이지
-  - 이런 이유로 이런 이런 기술을 적용해서 이렇게 만들어 보았습니다.
-  
-</details>
+| 태그이름 | 설명                                                  |
+| -------- | ----------------------------------------------------- |
+| feat     | 새로운 기능 추가                                      |
+| update     | 수정 추가                                      |
+| fix      | git과 관련된 버그 수정                                             |
+| design   | CSS 등 UI 수정                                 |
+| style    | 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우 |
+| refactor | 코드 리팩토링                                         |
+| docs     | 문서 수정 (MD 파일)                                   |
+| test     | 테스트 코드를 생성하거나 수정 하는 경우               |
