@@ -71,7 +71,7 @@
 ### <a href="https://daisy-brochure-67f.notion.site/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4">사용자 요구사항 정의서</a>
 ### <a href="https://daisy-brochure-67f.notion.site/e33b03b23a4a47258718333499f80833?pvs=4">화면 정의서</a>
 ### <a href="https://daisy-brochure-67f.notion.site/API-fe541ef8e9e946a89f4dacc35e17869e?pvs=4">API 문서</a>
-### <a href="https://daisy-brochure-67f.notion.site/DB-ERD-b181b37c8cfb449d8312a966c8e6c1ec?pvs=4"_blank">ERD 문서</a>
+### <a href="https://daisy-brochure-67f.notion.site/DB-ERD-b181b37c8cfb449d8312a966c8e6c1ec?pvs=4_blank"> ERD 문서</a>
 
 
 
