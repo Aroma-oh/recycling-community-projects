@@ -15,7 +15,7 @@
 - **프로젝트 명 :** 쓰쓰또쓰
 - **FE 팀원 :** 천지인(팀장), 오아름, 정순현
 - **BE 팀원 :** 진하늘(팀장), 김대현, 안윤아
-- **배포 링크 :** <a href='https://ssdss.vercel.app' target='_blank'>쓰쓰또쓰</a>
+- **배포 링크 :** <a href='https://ssdss.vercel.app' target='_blank'>쓰쓰또쓰</a> (모바일 환경에 최적화 되어있습니다. )
 
 <br>
 
@@ -27,7 +27,7 @@
 <br>
 
 ## 👨‍👩‍👧‍👦 우리팀을 소개합니다. 
-#### 이름 클릭 시 Github로 이동됩니다. 
+#### 이름 클릭하면 개인 Github로 이동합니다.
 
 | [천지인](https://github.com/jiin9999)<br>(FE, 팀장)| [오아름](https://github.com/Aroma-oh)<br>(FE)| [정순현](https://github.com/jungsoonhyun)  <br>(FE)|
 |:----------------:|:----------------:|:----------------:|
@@ -40,6 +40,23 @@
 |<p align="left">- 회원 도메인 CRUD</br> - 팔로우 도메인 CRUD</br> - OAuth2 로그인</br> - Spring Security + JWT</br> - 보안 </p> |<p align="left">- 시리즈 도메인 CRUD</br> - 코멘트 도메인 CRUD</br> - 데이로그 도메인 CRUD</br> - CD/CI</br> - 이미지 파일 처리</br> - 이미지 파일 처리</p>|<p align="left">- 뱃지 도메인 CRUD</br> - 북마크 도메인 CRUD</br> - 투표 도메인 CRUD</br> - Database Administrator</br> - NginX </p>    
 
 
+## 🔧 Skills
+<img src="https://user-images.githubusercontent.com/119935602/244271585-ef5d1ff8-6c06-44ee-a0f5-947361afff48.PNG">
+
+### Tools
+| Git | Github | Notion | Discord | 
+| :---: | :---: | :---: | :---: |
+| <img alt="git logo" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="65" height="65" > | <img alt="github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65"> | <img alt="Discord logo" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/800px-Notion-logo.svg.png height="65" width="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | 
+### Front-end
+| Next.js | TypeScript | Styled-<br>Components | Axios | PWA | ESLint | Prettier |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Next" src ="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Ts" width="75" height="75" /></div> | <img src="https://styled-components.com/logo.png" alt="styled-components icon" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="Axios" width="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/pwa-icon.png" alt="PWA" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" alt="ESLint" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></div> |
+
+### Back-end
+| Java | mySQL | JWT |Gradle| AWS | Spring | Spring<br>Security| Spring<br>Boot |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="Gradle" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring security logo" src="https://www.saashub.com/images/app/service_logos/129/rc71jd29uxtm/large.png?1580496061" height="50" width="50" >| <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
+
 ## 💻 Demo
 |**HOME**|**DETAIL**|**NEWLOG**|
 |:---:|:---:|:---:|
@@ -49,29 +66,12 @@
 |**BADGE**|**PROFILE**|
 |![](https://velog.velcdn.com/images/on002way/post/c0222541-c80b-4f29-819c-76e287b99d4c/image.gif)|![](https://velog.velcdn.com/images/on002way/post/15ebc4ee-c8c1-48d1-816a-a18f892c7c18/image.gif)|
 
-## 🔧 Skills
-<img src="https://user-images.githubusercontent.com/119935602/244271585-ef5d1ff8-6c06-44ee-a0f5-947361afff48.PNG">
-
-### Tools
-| Git | Github | Notion | Discord | 
-| :---: | :---: | :---: | :---: |
-| <img alt="git logo" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="65" height="65" > | <img alt="github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65"> | <img alt="Discord logo" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/800px-Notion-logo.svg.png height="65" width="65"> | <img alt="Discord logo" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" height="65" width="65"> | 
-### Front-end
-| Next.js | TypeScript | Axios | Styled-<br>Components | ESLint | Prettier |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img alt="Next" src ="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Ts" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="Axios" width="65"/></div> | <img src="https://styled-components.com/logo.png" alt="styled-components icon" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" alt="ESLint" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></div> |
-
-### Back-end
-| Java | mySQL | JWT |Gradle| AWS | Spring | Spring<br>Security| Spring<br>Boot |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="Gradle" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring security logo" src="https://www.saashub.com/images/app/service_logos/129/rc71jd29uxtm/large.png?1580496061" height="50" width="50" >| <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
-
 ## :memo: Documents
 
-### <a href="https://www.notion.so/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4" target="_blank">사용자 요구사항 정의서</a>
-### <a href="https://www.notion.so/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4" target="_blank">화면 정의서</a>
-### <a href="https://www.side-quest-1.com/swagger-ui.html" target="_blank">API 문서</a>
-### <a href="https://dbdiagram.io/d/6451e406dca9fb07c467d156" target="_blank">ERD 문서</a>
+### <a href="https://daisy-brochure-67f.notion.site/7dcb1ceb13664e24b651a3d7a56d4257?pvs=4">사용자 요구사항 정의서</a>
+### <a href="https://daisy-brochure-67f.notion.site/e33b03b23a4a47258718333499f80833?pvs=4">화면 정의서</a>
+### <a href="https://daisy-brochure-67f.notion.site/API-fe541ef8e9e946a89f4dacc35e17869e?pvs=4">API 문서</a>
+### <a href="https://daisy-brochure-67f.notion.site/DB-ERD-b181b37c8cfb449d8312a966c8e6c1ec?pvs=4"_blank">ERD 문서</a>
 
 
 
