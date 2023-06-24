@@ -28,11 +28,12 @@
 
 ## 👨‍👩‍👧‍👦 우리팀을 소개합니다. 
 #### 이름 클릭하면 개인 Github로 이동합니다.
+#### 파일 경로는 `/seb43_main_008/client/app/페이지`입니다. 
 
-| [천지인](https://github.com/jiin9999)<br>(FE, 팀장)| [오아름](https://github.com/Aroma-oh)<br>(FE)| [정순현](https://github.com/jungsoonhyun)  <br>(FE)|
+| [천지인](https://github.com/jiin9999)<br>(FE, 팀장)| [🙋🏻‍♀️ 오아름](https://github.com/Aroma-oh)<br>(FE)| [정순현](https://github.com/jungsoonhyun)  <br>(FE)|
 |:----------------:|:----------------:|:----------------:|
 |<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236228351991869/421b971f5aaff0b5.png" width="200px" height="200px">    |<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113236380366159994/a2125abea89bbbe1.png" width="200px" height="200px">    |<img src="https://cdn.discordapp.com/attachments/1101112392659767369/1113237188902125608/32b8a4bccba3ad5f.png" width="200px" height="200px">|
-| <p align="left">- 로그인 페이지<br/> - 회원가입 페이지<br/> - 회원 정보 수정 페이지<br/> - 회원가입 축하 페이지<br/> - 투표 완료 페이지</p> | <p align="left">- 북마크 페이지<br/> - 시리즈 상세 페이지</br> - 팔로우 페이지</br> - 메인 페이지</br> - 마이 페이지</br></p> | <p align="left">- 뱃지 페이지<br/> - 시리즈 작성페이지<br/> - 일지 작성 페이지</br>- 일지 상세페이지</br></p> |
+| <p align="left">- 로그인 페이지<br/> - 회원가입 페이지<br/> - 회원 정보 수정 페이지<br/> - 회원가입 축하 페이지<br/> - 투표 완료 페이지</p> | <p align="left"> - 메인 페이지(`/main`)</br> - 시리즈 상세 페이지(`/detail`)</br>  - 마이 페이지(`/my-page`)</br> - 북마크 페이지(`/bookmark`) <br/> - 팔로우 페이지(`/follow`)</br> </p> | <p align="left">- 뱃지 페이지<br/> - 시리즈 작성페이지<br/> - 일지 작성 페이지</br>- 일지 상세페이지</br></p> |
 
 | [진하늘](https://github.com/mewluee)<br>(BE, 팀장)| [김대현](https://github.com/NewfileDOTpy)<br>(BE)| [안윤아](https://github.com/digital-hamster)   <br>(BE)|
 |:----------------:|:----------------:|:----------------:|
