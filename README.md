@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/codestates-seb/seb43_main_008/main/client/public/images/qrCode.png" width="200px" height="200px">
   <h4>쓰쓰또쓰와 함께 플라스틱을 재활용하고 기록해보세요.</h4>
-  <h5 align="center">개발기간: 2023.04.28 ~ 2022.05.25</h5>
+  <h5 align="center">개발기간: 2023.04.28 ~ 2023.05.25</h5>
 </div>
 
 ---
